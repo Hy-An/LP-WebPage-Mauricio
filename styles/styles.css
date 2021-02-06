@@ -1,0 +1,27 @@
+    .color-blanco
+    {
+        color: white;
+        font-family: monospace
+    }
+    .color-celeste
+    {
+        color: cadetblue;
+        font-family: monospace
+    }
+    p
+    {
+        font-size: 25px;
+    }
+    h1
+    {
+        font-size: 35px;
+    }
+    .logo
+    {
+        height:350px;
+    }
+    hr
+    {
+        border-color: cadetblue;
+        border-style: ridge; 
+    } 
