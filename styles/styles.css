@@ -1,12 +1,12 @@
-    .color-blanco
+    .body
     {
+        background-color: black;
         color: white;
         font-family: monospace
     }
     .color-celeste
     {
         color: cadetblue;
-        font-family: monospace
     }
     .logo
     {
@@ -28,6 +28,10 @@
     {
         margin-left: 500px;
         margin-right: 500px;
+    }
+    .member-text-article
+    {
+        text-align: left;
     }
 
     p
