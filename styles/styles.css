@@ -11,18 +11,13 @@
     .logo
     {
         height:360px;
-        margin: -10px;
+        margin-bottom: -10px;
     }
     .video
     {
         width:660px;
         height:415px;
         border: none;
-    }
-    .border
-    {
-        border-color: cadetblue;
-        border-style: dotted;
     }
     .article
     {
@@ -35,10 +30,16 @@
         text-align: left;
         margin-left: 30px;
         margin-right: 850px;
+        background-color: blue;
     }
     .image
     {
         padding-left: 1250px;
+    }
+    .border
+    {
+        border-color: cadetblue;
+        border-style: dotted;
     }
 
     p
