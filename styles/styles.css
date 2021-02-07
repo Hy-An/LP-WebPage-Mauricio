@@ -2,7 +2,7 @@
     {
         background-color: black;
         color: white;
-        font-family: monospace
+        font-family: monospace;
     }
     .color-celeste
     {
@@ -11,7 +11,7 @@
     .logo
     {
         height:360px;
-        margin: -48px;
+        margin: -10px;
     }
     .video
     {
@@ -28,10 +28,17 @@
     {
         margin-left: 500px;
         margin-right: 500px;
+        margin-bottom: 200px;
     }
     .member-text-article
     {
         text-align: left;
+        margin-left: 30px;
+        margin-right: 850px;
+    }
+    .image
+    {
+        padding-left: 1250px;
     }
 
     p
