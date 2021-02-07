@@ -10,7 +10,8 @@
     }
     .logo
     {
-        height:350px;
+        height:360px;
+        margin: -48px;
     }
     .video
     {
@@ -22,6 +23,11 @@
     {
         border-color: cadetblue;
         border-style: dotted;
+    }
+    .article
+    {
+        margin-left: 500px;
+        margin-right: 500px;
     }
 
     p
