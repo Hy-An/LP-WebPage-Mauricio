@@ -13,6 +13,10 @@
         height:360px;
         margin-bottom: -10px;
     }
+    .header-padding
+    {
+        padding-right: 20px;
+    }
     .video
     {
         width:660px;
