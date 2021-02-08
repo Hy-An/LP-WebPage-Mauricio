@@ -18,12 +18,17 @@
   height: 415px;
   border: none;
 }
-.article {
+.article-index {
   margin-left: 500px;
   margin-right: 500px;
   margin-bottom: 200px;
 }
+.article-member {
+  margin-bottom: 200px;
+}
 .member-text-article {
+  display: grid;
+  grid-template-rows: 0px;
   text-align: left;
   margin-left: 30px;
   margin-right: 850px;
