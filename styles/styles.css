@@ -1,60 +1,48 @@
-    .body
-    {
-        background-color: black;
-        color: white;
-        font-family: monospace;
-    }
-    .color-celeste
-    {
-        color: cadetblue;
-    }
-    .logo
-    {
-        height:360px;
-        margin-bottom: -10px;
-    }
-    .header-padding
-    {
-        padding-right: 20px;
-    }
-    .video
-    {
-        width:660px;
-        height:415px;
-        border: none;
-    }
-    .article
-    {
-        margin-left: 500px;
-        margin-right: 500px;
-        margin-bottom: 200px;
-    }
-    .member-text-article
-    {
-        text-align: left;
-        margin-left: 30px;
-        margin-right: 850px;
-    }
-    .image
-    {
-        padding-left: 1250px;
-    }
-    .border
-    {
-        border-color: cadetblue;
-        border-style: dotted;
-    }
+.body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+}
+.color-celeste {
+  color: cadetblue;
+}
+.logo {
+  height: 360px;
+  margin-bottom: -10px;
+}
+.header-padding {
+  padding-right: 20px;
+}
+.video {
+  width: 660px;
+  height: 415px;
+  border: none;
+}
+.article {
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-bottom: 200px;
+}
+.member-text-article {
+  text-align: left;
+  margin-left: 30px;
+  margin-right: 850px;
+}
+.image {
+  padding-left: 1250px;
+}
+.border {
+  border-color: cadetblue;
+  border-style: dotted;
+}
 
-    p
-    {
-        font-size: 25px;
-    }
-    h1
-    {
-        font-size: 35px;
-    }
-    hr
-    {
-        border-color: cadetblue;
-        border-style: solid;
-    } 
+p {
+  font-size: 25px;
+}
+h1 {
+  font-size: 35px;
+}
+hr {
+  border-color: cadetblue;
+  border-style: solid;
+}
