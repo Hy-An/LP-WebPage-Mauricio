@@ -49,27 +49,19 @@ hr {
 
 /*Members*/
 .article-member {
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 100px;
   margin-bottom: 200px;
-  margin-left: 30px;
 }
 .member-title-article {
   text-align: left;
 }
 .member-text-article {
   text-align: left;
-  margin-right: 875px;
+  margin-right: 275px;
 }
-.image {
-  /*padding-left: 1200px;*/
-}
-
-.container {
+.grid {
   display: grid;
   grid-template-columns: auto auto;
-}
-.d1 {
-  background-color: lightblue;
-}
-.d2 {
-  background-color: rebeccapurple;
 }
