@@ -2,6 +2,8 @@
   background-color: black;
   color: white;
   font-family: monospace;
+  align-items: center;
+  text-align: center;
 }
 .color-celeste {
   color: cadetblue;
@@ -25,24 +27,31 @@
 }
 .article-member {
   margin-bottom: 200px;
+  margin-left: 30px;
+}
+.member-title-article {
+  text-align: left;
 }
 .member-text-article {
   display: grid;
   grid-template-rows: 0px;
   text-align: left;
-  margin-left: 30px;
   margin-right: 850px;
 }
 .image {
   padding-left: 1250px;
 }
-.border {
+.footer {
+  margin-top: 150px;
+}
+.footer-border {
   border-color: cadetblue;
   border-style: dotted;
 }
 
 p {
   font-size: 25px;
+  color: rgb(174, 214, 214);
 }
 h1 {
   font-size: 35px;
