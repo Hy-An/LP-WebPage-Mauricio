@@ -1,3 +1,4 @@
+/* Generic*/
 .body {
   background-color: black;
   color: white;
@@ -25,22 +26,7 @@
   margin-right: 500px;
   margin-bottom: 200px;
 }
-.article-member {
-  margin-bottom: 200px;
-  margin-left: 30px;
-}
-.member-title-article {
-  text-align: left;
-}
-.member-text-article {
-  display: grid;
-  grid-template-rows: 0px;
-  text-align: left;
-  margin-right: 850px;
-}
-.image {
-  padding-left: 1200px;
-}
+
 .footer {
   margin-top: 150px;
 }
@@ -59,4 +45,24 @@ h1 {
 hr {
   border-color: cadetblue;
   border-style: solid;
+}
+
+/*Members*/
+.main-member {
+  column-count: 2;
+  column-width: auto;
+}
+.article-member {
+  margin-bottom: 200px;
+  margin-left: 30px;
+}
+.member-title-article {
+  text-align: left;
+}
+.member-text-article {
+  text-align: left;
+  margin-right: 875px;
+}
+.image {
+  padding-left: 1200px;
 }
