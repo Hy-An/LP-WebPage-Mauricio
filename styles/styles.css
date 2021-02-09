@@ -48,10 +48,6 @@ hr {
 }
 
 /*Members*/
-.main-member {
-  column-count: 2;
-  column-width: auto;
-}
 .article-member {
   margin-bottom: 200px;
   margin-left: 30px;
@@ -64,5 +60,16 @@ hr {
   margin-right: 875px;
 }
 .image {
-  padding-left: 1200px;
+  /*padding-left: 1200px;*/
+}
+
+.container {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.d1 {
+  background-color: lightblue;
+}
+.d2 {
+  background-color: rebeccapurple;
 }
