@@ -10,7 +10,7 @@
   color: cadetblue;
 }
 .logo {
-  height: 360px;
+  height: 370px;
   margin-bottom: -10px;
 }
 .header {
@@ -29,7 +29,6 @@
   margin-right: 500px;
   margin-bottom: 200px;
 }
-
 .footer {
   margin-top: 150px;
 }
@@ -67,4 +66,18 @@ hr {
 .grid {
   display: grid;
   grid-template-columns: auto auto;
+}
+
+.article-member2 {
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 100px;
+  margin-bottom: 200px;
+}
+.member-title-article2 {
+  text-align: right;
+}
+.member-text-article2 {
+  text-align: right;
+  margin-left: 275px;
 }
