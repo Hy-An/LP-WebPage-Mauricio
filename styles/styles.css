@@ -10,7 +10,7 @@
   color: cadetblue;
 }
 .logo {
-  height: 400px;
+  height: 425px;
   margin-bottom: -10px;
 }
 .header {
@@ -66,6 +66,11 @@ hr {
 .grid {
   display: grid;
   grid-template-columns: auto auto;
+}
+.image {
+  border-style: solid;
+  border-color: black;
+  border-radius: 1000px;
 }
 
 .article-member2 {
