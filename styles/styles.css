@@ -15,6 +15,7 @@
 }
 .header {
   padding-bottom: 70px;
+  text-shadow: 0px 1px 20px cadetblue;
 }
 .header-content {
   padding-right: 45px;
@@ -31,6 +32,7 @@
 }
 .footer {
   margin-top: 150px;
+  text-shadow: 0px 0px 10px cadetblue;
 }
 .footer-border {
   border-color: cadetblue;
@@ -38,11 +40,13 @@
 }
 
 p {
+  text-shadow: 0px 0px 8px cadetblue;
   font-size: 25px;
   color: rgb(174, 214, 214);
 }
 h1 {
   font-size: 35px;
+  text-shadow: 0px 0px 13px cadetblue;
 }
 hr {
   border-color: cadetblue;
@@ -50,6 +54,9 @@ hr {
 }
 
 /*Members*/
+#Chester {
+  opacity: 0.3;
+}
 .article-member {
   margin-top: 100px;
   margin-left: 50px;
@@ -58,6 +65,7 @@ hr {
 }
 .member-title-article {
   text-align: left;
+  text-shadow: 0px 10px 20px cadetblue;
 }
 .member-text-article {
   text-align: left;
@@ -68,7 +76,14 @@ hr {
   grid-template-columns: auto auto;
 }
 .image {
+  height: 775px;
   border-style: solid;
+  border-color: black;
+  border-radius: 1000px;
+}
+.gif {
+  width: 650px;
+  margin-top: 125px;
   border-color: black;
   border-radius: 1000px;
 }
@@ -81,6 +96,7 @@ hr {
 }
 .member-title-article2 {
   text-align: right;
+  text-shadow: 0px 10px 20px cadetblue;
 }
 .member-text-article2 {
   text-align: right;
