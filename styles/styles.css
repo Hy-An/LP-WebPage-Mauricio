@@ -1,11 +1,4 @@
-/* Generic*/
-.body {
-  background-color: black;
-  color: white;
-  font-family: monospace;
-  align-items: center;
-  text-align: center;
-}
+/*__________________________________________________________________Generic*/
 .color-celeste {
   color: cadetblue;
   transition: 0.3s;
@@ -31,7 +24,7 @@
   margin-bottom: 200px;
 }
 .footer {
-  margin-top: 150px;
+  margin-top: 200px;
 }
 .footer-border {
   border-color: cadetblue;
@@ -41,6 +34,13 @@
   box-shadow: 0px 0px 10px cadetblue;
 }
 
+body {
+  background-color: black;
+  color: white;
+  font-family: monospace;
+  align-items: center;
+  text-align: center;
+}
 p {
   text-shadow: 0px 0px 8px cadetblue;
   font-size: 25px;
@@ -55,7 +55,7 @@ hr {
   border-style: solid;
 }
 
-/*Members*/
+/*__________________________________________________________________Members*/
 #Chester {
   text-shadow: 0px 0px 10px rgb(255, 255, 83);
 }
@@ -63,7 +63,6 @@ hr {
   margin-top: 100px;
   margin-left: 50px;
   margin-right: 100px;
-  margin-bottom: 200px;
 }
 .member-title-article {
   text-align: left;
@@ -94,7 +93,6 @@ hr {
   margin-top: 100px;
   margin-left: 50px;
   margin-right: 100px;
-  margin-bottom: 200px;
 }
 .member-title-article2 {
   text-align: right;
@@ -105,7 +103,7 @@ hr {
   margin-left: 275px;
 }
 
-/*Animations*/
+/*__________________________________________________________________Animations*/
 .hover:hover {
   text-shadow: 0px 0px 20px white;
 }
